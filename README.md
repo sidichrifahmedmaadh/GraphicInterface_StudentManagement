@@ -4,7 +4,7 @@ The University Management System is a comprehensive desktop based application de
 </p>
 
 
-<h2>Example Of System Tools</h2>
+<b>Example Of System Tools : <b/> 
 <br/><br/>
 ![Table](https://i.ibb.co/NmHys2L/screenshot.png)
 
