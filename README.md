@@ -13,7 +13,7 @@ The University Management System is a comprehensive desktop based application de
 <br/><br/><br/>
 <p align="center">
    	<b>	
-		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/universitySystem_javaSwing"> project </a>  a star on Github and
+		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/universitySystem_javaSwing"> project</a>  a star on Github and
 		share with your friends!! I will be happy with it! ❤️ <br/>
 		I hope you learn something :).
 	</b>
